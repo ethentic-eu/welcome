@@ -1,4 +1,6 @@
-<img align="right" height="80" src="https://github.com/ethentic-eu/blob/main/img/ethentic-logo.svg"/><br/></br>
+<img align="right" height="50" src="https://github.com/ethentic-eu/welcome/blob/main/img/ethentic-Logo.svg"/><br/></br>
+
+
 # Welcome to the ethentic<sup>&reg;</sup> Space!
 
 This is the place, where everything becomes **e**lectronic while remaining au**thentic**. The technical foundation 
@@ -6,7 +8,8 @@ for realising this [vision](https://www.ethentic.eu/#about) are the **ethentic<s
 which encapsulate the technical functionality in a reusable manner to ease the creation of tailormade **ethentic<sup>&reg;** *Solutions* 
 and **ethentic<sup>&reg;** *Services* based on these foundational technical components.
 
-<center><img height="400" src="https://github.com/ethentic-eu/blob/main/img/ethentic-Building-Blocks.svg"/></center>
+<center><img height="800" src="https://github.com/ethentic-eu/welcome/blob/main/img/ethentic-Building-Blocks.svg"/></center>
+
 
 ## ethentic<sup>&reg;</sup> Authorizer
 
